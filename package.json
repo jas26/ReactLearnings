@@ -1,0 +1,22 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "learning project",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jas26/ReactLearnings.git"
+  },
+  "author": "Jaswanth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jas26/ReactLearnings/issues"
+  },
+  "homepage": "https://github.com/jas26/ReactLearnings#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
